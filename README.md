@@ -1,2 +1,2 @@
 # Life
-Max Life,Hello World
+Hello World
